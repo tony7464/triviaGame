@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/tony7464/triviaGame/issues"
   },
-  "homepage": "https://github.com/tony7464/triviaGame#readme"
+  "homepage": "https://github.com/tony7464/triviaGame#readme",
+  "dependencies": {
+    "@inquirer/prompts": "^8.5.2"
+  }
 }
