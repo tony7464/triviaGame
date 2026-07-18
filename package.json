@@ -1,0 +1,21 @@
+{
+  "name": "triviagame",
+  "version": "1.0.0",
+  "description": "",
+  "main": "game_logic.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tony7464/triviaGame.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/tony7464/triviaGame/issues"
+  },
+  "homepage": "https://github.com/tony7464/triviaGame#readme"
+}
